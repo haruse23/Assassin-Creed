@@ -12,6 +12,6 @@ Same goes for the `ACU_DATA_Compressed.hexpat` file, this is a pattern file to b
 
 Other AC games are not tested yet, feel free to try with other games
 
-`NOTE: Put ACU_Decompress_DATA.py, decompress_.py, and ACU_Decompress_DATA.bat in one folder first.`
+`NOTE: Put ACU_Decompress_DATA.py, decompress_.py, and ACU_Decompress_DATA.bat in one sub-folder first.`
 
 `
